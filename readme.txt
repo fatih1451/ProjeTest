@@ -1,0 +1,1 @@
+//hatayı düzeltiyoruz.
