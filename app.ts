@@ -1,3 +1,6 @@
 //1.commit
 //2.commit
 //3.commit
+
+//değişiklik 1
+//değişiklik 2
